@@ -1,1 +1,10 @@
-# GTA7LITE_SM-T225-AVE1
+# Android device tree for samsung SM-T225 (gta7lite)
+
+```
+#
+# Copyright (C) 2023 The Android Open Source Project
+# Copyright (C) 2023 SebaUbuntu's TWRP device tree generator
+#
+# SPDX-License-Identifier: Apache-2.0
+#
+```
